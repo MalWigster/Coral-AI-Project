@@ -10,3 +10,5 @@ __pycache__
 *.deb
 *.buildinfo
 *.changes
+
+*/data/
